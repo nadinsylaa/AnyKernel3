@@ -1,8 +1,8 @@
-NAME ?= Genom
+NAME ?= Zeus
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := MIUI-Pie-onclite
+CODE := Kernel-AOSP-onclite
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 

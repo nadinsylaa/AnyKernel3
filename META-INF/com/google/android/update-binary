@@ -86,6 +86,15 @@ if [ -f banner ]; then
   ui_print " " " ";
 fi;
 
+ui_print " ______________________ ______";
+ui_print " ----  /| ____||    || |";
+ui_print "    / / | |   ||    || |";
+ui_print "   / /  | |___||    || |_____";
+ui_print "  / /   |  ___||    ||       |";
+ui_print " / /    | |   | \__/ |       |";
+ui_print "________|_|____\____/________|__";
+ui_print "        By @IDGAF88";
+
 ui_print "$(file_getprop anykernel.sh kernel.string)";
 if [ -f version ]; then
   ui_print " ";
