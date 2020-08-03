@@ -1,8 +1,8 @@
-NAME ?= Bryn
+NAME ?= SiLonT
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := Kernel-AOSP
+CODE := Kernel
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
