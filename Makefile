@@ -2,7 +2,7 @@ NAME ?= SiLonT
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := Kernel
+CODE := Kernel-Onclite
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
