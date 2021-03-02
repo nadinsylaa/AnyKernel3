@@ -1,8 +1,8 @@
-NAME ?= AsepMlnaa
+NAME ?= RyzenX
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := Kernel-Onclite
+CODE := Kernel-Merlin
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
