@@ -1,8 +1,8 @@
-NAME ?= AsepMlnaa
+NAME ?= mighty花
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := Kernel-Onclite
+CODE := Kernel
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
