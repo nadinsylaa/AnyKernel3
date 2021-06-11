@@ -1,4 +1,4 @@
-NAME ?= Mighty花
+NAME ?= Styrofoam
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
